@@ -1,0 +1,16 @@
+{
+    "name": "basic-socket",
+    "version": "0.0.1",
+    "description": "Communication between Arduino and HTML/JavaScript",
+    "dependencies": {
+        "express": "^4.17.1",
+        "serialport": "^9.0.1",
+        "socket.io": "^2.4.1",
+        "sphp": "^0.6.3"
+    },
+    "devDependencies": {
+        "bootstrap": "^5.0.1",
+        "jquery": "^3.6.0",
+        "popper.js": "^1.16.1"
+    }
+}
